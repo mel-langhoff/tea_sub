@@ -222,12 +222,17 @@
       },
       "/Users/mel/Turing/4mod/intermission_work/tea_sub/spec/models/subscription_spec.rb": {
         "lines": [
-
-        ]
-      },
-      "/Users/mel/Turing/4mod/intermission_work/tea_sub/spec/models/tea_spec.rb": {
-        "lines": [
-
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          null,
+          null
         ]
       },
       "/Users/mel/Turing/4mod/intermission_work/tea_sub/app/models/subscription.rb": {
@@ -246,8 +251,27 @@
           1,
           null
         ]
+      },
+      "/Users/mel/Turing/4mod/intermission_work/tea_sub/spec/models/tea_spec.rb": {
+        "lines": [
+
+        ]
+      },
+      "/Users/mel/Turing/4mod/intermission_work/tea_sub/app/models/tea.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1720427417
+    "timestamp": 1720427487
   }
 }
