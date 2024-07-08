@@ -254,7 +254,16 @@
       },
       "/Users/mel/Turing/4mod/intermission_work/tea_sub/spec/models/tea_spec.rb": {
         "lines": [
-
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          null,
+          null
         ]
       },
       "/Users/mel/Turing/4mod/intermission_work/tea_sub/app/models/tea.rb": {
@@ -272,6 +281,6 @@
         ]
       }
     },
-    "timestamp": 1720427487
+    "timestamp": 1720427571
   }
 }
