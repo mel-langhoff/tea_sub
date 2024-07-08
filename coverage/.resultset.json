@@ -189,14 +189,122 @@
       "/Users/mel/Turing/4mod/intermission_work/tea_sub/config/routes.rb": {
         "lines": [
           1,
+          1,
+          1,
+          1,
+          1,
+          1,
           null,
+          null,
+          null
+        ]
+      },
+      "/Users/mel/Turing/4mod/intermission_work/tea_sub/app/controllers/api/v0/subscriptions_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          0,
           null,
           null,
           null,
           1,
           null,
+          1,
+          0,
           null,
           null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/mel/Turing/4mod/intermission_work/tea_sub/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
           null
         ]
       },
@@ -220,18 +328,20 @@
           null
         ]
       },
-      "/Users/mel/Turing/4mod/intermission_work/tea_sub/spec/models/subscription_spec.rb": {
+      "/Users/mel/Turing/4mod/intermission_work/tea_sub/app/serializers/subscription_serializer.rb": {
         "lines": [
           1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
           null,
           1,
           1,
-          2,
-          2,
-          2,
-          2,
-          2,
-          null,
           null
         ]
       },
@@ -252,22 +362,6 @@
           null
         ]
       },
-      "/Users/mel/Turing/4mod/intermission_work/tea_sub/spec/models/tea_spec.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          null,
-          null
-        ]
-      },
       "/Users/mel/Turing/4mod/intermission_work/tea_sub/app/models/tea.rb": {
         "lines": [
           1,
@@ -281,8 +375,34 @@
           1,
           null
         ]
+      },
+      "/Users/mel/Turing/4mod/intermission_work/tea_sub/app/serializers/customer_serializer.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null
+        ]
+      },
+      "/Users/mel/Turing/4mod/intermission_work/tea_sub/app/serializers/tea_serializer.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1720427733
+    "timestamp": 1720429663
   }
 }
