@@ -4,5 +4,5 @@ class TeaSerializer
   attributes  :name,
               :description,
               :brew_time,
-              :temperature
+              :temp
 end
