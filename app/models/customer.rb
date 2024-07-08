@@ -6,6 +6,4 @@ class Customer < ApplicationRecord
   validates :last_name, presence: true
   validates :email, presence: true, uniqueness: true
   validates :address, presence: true
-
-  has_secure_password
 end
