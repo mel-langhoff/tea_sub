@@ -6,7 +6,8 @@ class Api::V0::SubscriptionsController < ApplicationController
   end
 
   def create
-    subscription = Subscription.new(subscription_params)
+    customer = Customer.find(params[:customer_id])
+    subscription = customer.subscriptions.build(subscription_params)
     if subscription.save
       render json: SubscriptionSerializer.new(subscription), status: :created
     else
