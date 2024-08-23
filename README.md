@@ -5,20 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 3.2.3
 
-* System dependencies
+* Rails version: 7.1.3.4
 
-* Configuration
+* Configuration: Clone Repo from Github and run the command below to create the dB. There is already data provided in the seeds.rb file to get started.
 
-* Database creation
+* Database creation: Run `rails db:{drop,create,migrate,seed}
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* How to run the test suite: Install RSpec and run `bundle exec rspec`
